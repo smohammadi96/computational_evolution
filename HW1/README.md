@@ -17,10 +17,10 @@
   
 - Mutation
   methods:
-  - Swap
-  - Flip
+    - Swap
+    - Flip
 
 - Remaining selection
  methods:
- - All generations
- - New generation
+    - All generations
+    - New generation
