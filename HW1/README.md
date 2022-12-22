@@ -1,6 +1,6 @@
 ## Solve TSP Problem by Genetic algorithm
 
-### Steps
+## Steps
 
 - Create initial population
   methods:
@@ -25,7 +25,7 @@
     - All generations
     - New generation
     
-### Experiments
+## Experiments
 
 **1. Crossover: n points, Mutation: Swap**
 
@@ -43,7 +43,7 @@
 
 ![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/HW1/images/uniform_swap.png)
 
-**Result: ** Experiment 1 had better performance.
+### **Result:** Experiment 1 had better performance.
 
 **5. Population = 2**
 
@@ -57,4 +57,4 @@
 
 ![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/HW1/images/6.png)
 
-**Result: ** Experiment 6 and 7 had better performance.
+### **Result:** Experiment 6 and 7 had better performance.
