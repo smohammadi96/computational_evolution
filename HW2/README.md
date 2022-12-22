@@ -1,5 +1,12 @@
 ### Comparison between PSO, ES and DS
 
+
+## Test Functions
+
+![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/HW2/images/Rastrigin.PNG)
+
+![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/HW2/images/Schwefel.PNG)
+
 ## PSO
 The following graphs compare the responses of the pso algorithm parameters on the Rastrigina cost function, which is displayed in two-dimensional and three-dimensional form. The horizontal axis of the two-dimensional graph indicates the test number, and the vertical axis shows the algorithm's response. The number of the test is based on ascending, starting from zero, each time the value of 0.2 is added to phi1 and phi2. The best value for w is 0.4, which improves by increasing the value of phi1 and phi2.
 
