@@ -25,15 +25,15 @@ DS is presented to overcome the main defect of genetic algorithm, i.e. the lack 
 The purpose of this exercise is to compare and find the best parameters for mutation probability and F value. The two graphs below show the comparison of the values ​​of these parameters. The horizontal axis in the two-dimensional graph indicates the test number and the vertical axis indicates the best answer. The three-dimensional graph also shows the x-axis of the chance of mutation, the y-axis shows the F values, and the z-axis shows the best answer.
 By increasing the number of iterations, the process improves, and the best parameters for the mentioned complex cost pan are the use of the mutation value of 0.4 and the F value of 0.5.
 
-![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/PSO_ES_DS/images/DS1.PNG)
+![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/PSO_ES_DS/images/DS1.png)
 
-![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/PSO_ES_DS/images/DS2.PNG)
+![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/PSO_ES_DS/images/DS2.png)
 
 
 ## ES
 ES is one of the evolutionary methods. which starts with an initial population, in this method, after selecting the parents, reproduction methods are used to produce a new generation, which is used in the current programs using the Discrete Recombination method. mutation also helps in finding new places and better searching the search space. The horizontal axis of the two graphs below shows the number of iterations and the vertical axis shows the best answer. The first graph shows mu, lamda and the second graph shows mu + lamda. The first chart has a better result than the second one.
 
-![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/PSO_ES_DS/images/ES1.PNG)
+![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/PSO_ES_DS/images/ES1.png)
 
-![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/PSO_ES_DS/images/ES2.PNG)
+![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/PSO_ES_DS/images/ES2.png)
 
