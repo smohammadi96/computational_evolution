@@ -43,7 +43,7 @@
 
 ![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/HW1/images/uniform_swap.png)
 
-### **Result:** Experiment 1 had better performance.
+### **Result:** Experiment --> better performance.
 
 **5. Population = 2**
 
@@ -57,4 +57,4 @@
 
 ![alt text](https://github.com/smohammadi96/computational_evolution/blob/main/HW1/images/6.png)
 
-### **Result:** Experiment 6 and 7 had better performance.
+### **Result:** Experiments 6 and 7 --> better performance.
